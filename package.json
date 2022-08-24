@@ -5,7 +5,7 @@
   "dependencies": {
     "rxjs": "6.3.3",
     "tslib": "1.9.3",
-    "core-js": "2.6.5",
+    "core-js": "2.6.12",
     "zone.js": "0.8.29",
     "@types/node": "8.9.5",
     "@angular/core": "7.2.15",
